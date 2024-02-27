@@ -604,8 +604,8 @@ body {
 }
 .e0_115 { 
 	color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
-	width:50px;
-	height:230px;
+	width:56px;
+	height:242px;
 	position:absolute;
 	left:402px;
 	top:551px;
@@ -709,5 +709,4 @@ body {
     user-select: none; /* 텍스트 드래그 방지 */
   }
 
-
-  
+ 
