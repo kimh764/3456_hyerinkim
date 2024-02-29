@@ -213,34 +213,7 @@
   /*****************************************/
   
   
-  /* some background images and decoration */
-  
-  .cols .tile {
-	opacity: 0.4;
-	background-size: cover;
-  }
-  
-  
-  .cols .tile.schmancy {
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-  }
-  
-  .cols .tile.schmancy.pic0 {
-	background-image: url("http://pipsum.com/850x600.jpg");
-  }
-  
-  .cols .tile.schmancy.pic1 {
-	background-image: url("http://pipsum.com/800x600.jpg");
-  }
-  
-  .cols .tile.schmancy.pic2 {
-	background-image: url("http://pipsum.com/800x650.jpg");
-  }
-  
-  .cols .tile.schmancy.pic3 {
-	background-image: url("http://pipsum.com/800x550.jpg");
-  }
+
   
   
   /************************************/
@@ -257,8 +230,7 @@
   }
   
   .tile {
-	color: #D9D9D9;
-	align: center;
+	color: rgb(147, 147, 147);
   }
   
   
